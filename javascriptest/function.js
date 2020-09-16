@@ -3,7 +3,7 @@ function mul(a, b) {
 }
 const add = (a, b) => a + b
 const add2 = (a, b) => {
-    this.user = 'JOke'
+    this.user = 'JOKE'
     return a + b
 }
 console.log(this.user)
